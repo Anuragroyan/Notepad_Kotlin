@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684896387030",
+    "project_id": "notepad-cec58",
+    "storage_bucket": "notepad-cec58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684896387030:android:66e9dbf86ec46cd7186e77",
+        "android_client_info": {
+          "package_name": "com.example.notepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEut40R6wXGP1UhH7uCftHy3zhVSGMnPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
